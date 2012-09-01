@@ -7,4 +7,4 @@ for i in range(t):
     if line % 4 == 0:
         print "YES"
     else:
-        print "NO"
+        print "NO" 
