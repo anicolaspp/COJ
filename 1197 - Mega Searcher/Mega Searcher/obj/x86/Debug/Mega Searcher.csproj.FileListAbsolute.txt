@@ -1,0 +1,5 @@
+D:\Projects\COJ\Mega Searcher\Mega Searcher\bin\Debug\Mega Searcher.exe
+D:\Projects\COJ\Mega Searcher\Mega Searcher\bin\Debug\Mega Searcher.pdb
+D:\Projects\COJ\Mega Searcher\Mega Searcher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\Mega Searcher\Mega Searcher\obj\x86\Debug\Mega Searcher.exe
+D:\Projects\COJ\Mega Searcher\Mega Searcher\obj\x86\Debug\Mega Searcher.pdb

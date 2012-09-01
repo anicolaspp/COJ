@@ -1,0 +1,6 @@
+D:\Projects\COJ\Group Reverse\Group Reverse\bin\Debug\Group Reverse.exe.config
+D:\Projects\COJ\Group Reverse\Group Reverse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\Group Reverse\Group Reverse\bin\Debug\Group Reverse.exe
+D:\Projects\COJ\Group Reverse\Group Reverse\bin\Debug\Group Reverse.pdb
+D:\Projects\COJ\Group Reverse\Group Reverse\obj\x86\Debug\Group Reverse.exe
+D:\Projects\COJ\Group Reverse\Group Reverse\obj\x86\Debug\Group Reverse.pdb

@@ -1,0 +1,5 @@
+D:\Projects\COJ\1164 - Heptadecimal Numbers\1164 - Heptadecimal Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\1164 - Heptadecimal Numbers\1164 - Heptadecimal Numbers\bin\Debug\1164 - Heptadecimal Numbers.exe
+D:\Projects\COJ\1164 - Heptadecimal Numbers\1164 - Heptadecimal Numbers\bin\Debug\1164 - Heptadecimal Numbers.pdb
+D:\Projects\COJ\1164 - Heptadecimal Numbers\1164 - Heptadecimal Numbers\obj\x86\Debug\1164 - Heptadecimal Numbers.exe
+D:\Projects\COJ\1164 - Heptadecimal Numbers\1164 - Heptadecimal Numbers\obj\x86\Debug\1164 - Heptadecimal Numbers.pdb

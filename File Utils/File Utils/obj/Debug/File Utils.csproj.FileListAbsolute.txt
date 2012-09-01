@@ -1,0 +1,5 @@
+D:\Projects\COJ\File Utils\File Utils\bin\Debug\File Utils.dll
+D:\Projects\COJ\File Utils\File Utils\bin\Debug\File Utils.pdb
+D:\Projects\COJ\File Utils\File Utils\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\File Utils\File Utils\obj\Debug\File Utils.dll
+D:\Projects\COJ\File Utils\File Utils\obj\Debug\File Utils.pdb

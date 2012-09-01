@@ -1,0 +1,5 @@
+D:\Projects\COJ\Compound Word\Compound Word\bin\Debug\Compound Word.exe
+D:\Projects\COJ\Compound Word\Compound Word\bin\Debug\Compound Word.pdb
+D:\Projects\COJ\Compound Word\Compound Word\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\Compound Word\Compound Word\obj\x86\Debug\Compound Word.exe
+D:\Projects\COJ\Compound Word\Compound Word\obj\x86\Debug\Compound Word.pdb

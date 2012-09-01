@@ -1,0 +1,6 @@
+D:\Projects\COJ\Words\Words\bin\Debug\Words.exe.config
+D:\Projects\COJ\Words\Words\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\Words\Words\bin\Debug\Words.exe
+D:\Projects\COJ\Words\Words\bin\Debug\Words.pdb
+D:\Projects\COJ\Words\Words\obj\x86\Debug\Words.exe
+D:\Projects\COJ\Words\Words\obj\x86\Debug\Words.pdb

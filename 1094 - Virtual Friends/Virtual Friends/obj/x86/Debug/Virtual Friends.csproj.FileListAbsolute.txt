@@ -1,0 +1,6 @@
+D:\Projects\COJ\Virtual Friends\Virtual Friends\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\Virtual Friends\Virtual Friends\bin\Debug\Virtual Friends.exe
+D:\Projects\COJ\Virtual Friends\Virtual Friends\bin\Debug\Virtual Friends.pdb
+D:\Projects\COJ\Virtual Friends\Virtual Friends\obj\x86\Debug\Virtual Friends.exe
+D:\Projects\COJ\Virtual Friends\Virtual Friends\obj\x86\Debug\Virtual Friends.pdb
+D:\Projects\COJ\Virtual Friends\Virtual Friends\bin\Debug\Virtual Friends.exe.config

@@ -1,0 +1,5 @@
+D:\Projects\COJ\1189 - Skew Binary\1189 - Skew Binary\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\1189 - Skew Binary\1189 - Skew Binary\bin\Debug\1189 - Skew Binary.exe
+D:\Projects\COJ\1189 - Skew Binary\1189 - Skew Binary\bin\Debug\1189 - Skew Binary.pdb
+D:\Projects\COJ\1189 - Skew Binary\1189 - Skew Binary\obj\x86\Debug\1189 - Skew Binary.exe
+D:\Projects\COJ\1189 - Skew Binary\1189 - Skew Binary\obj\x86\Debug\1189 - Skew Binary.pdb

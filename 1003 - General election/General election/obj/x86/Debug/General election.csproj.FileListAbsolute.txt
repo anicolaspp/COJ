@@ -1,0 +1,5 @@
+D:\Projects\COJ\General election\General election\bin\Debug\General election.exe
+D:\Projects\COJ\General election\General election\bin\Debug\General election.pdb
+D:\Projects\COJ\General election\General election\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\General election\General election\obj\x86\Debug\General election.exe
+D:\Projects\COJ\General election\General election\obj\x86\Debug\General election.pdb

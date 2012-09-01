@@ -1,0 +1,5 @@
+D:\Projects\COJ\1137 - Is It A Tree\1137 - Is It A Tree\bin\Debug\1137 - Is It A Tree.exe
+D:\Projects\COJ\1137 - Is It A Tree\1137 - Is It A Tree\bin\Debug\1137 - Is It A Tree.pdb
+D:\Projects\COJ\1137 - Is It A Tree\1137 - Is It A Tree\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\COJ\1137 - Is It A Tree\1137 - Is It A Tree\obj\x86\Debug\1137 - Is It A Tree.exe
+D:\Projects\COJ\1137 - Is It A Tree\1137 - Is It A Tree\obj\x86\Debug\1137 - Is It A Tree.pdb
